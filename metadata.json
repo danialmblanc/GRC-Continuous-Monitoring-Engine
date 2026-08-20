@@ -1,0 +1,5 @@
+{
+  "name": "GRC Continuous Monitoring Engine",
+  "description": "A modular GRC engine for real-time compliance monitoring and GCP evidence collection.",
+  "requestFramePermissions": []
+}
